@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Array.cpp
+c:\users\david\desktop\labamp_2\array.cpp(29): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LabaMP_2.cpp
+  Matrix.cpp
+c:\users\david\desktop\labamp_2\matrix.cpp(19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Utils.cpp
+  Создание кода
+  All 299 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  LabaMP_2.vcxproj -> C:\Users\david\Desktop\LabaMP_2\x64\Release\LabaMP_2.exe
