@@ -1,14 +1,1 @@
-﻿  Lab_1.cpp
-F:\MP_2020\Lab_1\Lab_1.cpp(50,4): warning C4102: std: неиспользованная метка
-F:\MP_2020\Lab_1\Lab_1.cpp(63,13): warning C4101: k: неиспользованная локальная переменная
-F:\MP_2020\Lab_1\Lab_1.cpp(63,10): warning C4101: j: неиспользованная локальная переменная
-F:\MP_2020\Lab_1\Lab_1.cpp(63,7): warning C4101: i: неиспользованная локальная переменная
-F:\MP_2020\Lab_1\Lab_1.cpp(54): warning C4101: k: неиспользованная локальная переменная
-F:\MP_2020\Lab_1\Lab_1.cpp(54): warning C4101: i: неиспользованная локальная переменная
-F:\MP_2020\Lab_1\Lab_1.cpp(54): warning C4101: j: неиспользованная локальная переменная
-  Создание кода
-  5 of 271 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Создание кода завершено
-  Lab_1.vcxproj -> F:\MP_2020\Lab_1\Release\Lab_1.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Platform.targets(57,5): error MSB8020: Не удается найти средства сборки для v142 (набор инструментов платформы = "v142"). Чтобы выполнить сборку с использованием средств сборки v142 установите средства сборки v142.  Кроме того, можно выполнить обновление до текущей версии средств Visual Studio, перейдя в меню "Проект" или щелкнув решение правой кнопкой мыши и выбрав "Обновить решение...".
